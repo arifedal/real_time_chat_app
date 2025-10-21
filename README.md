@@ -16,16 +16,16 @@ Bu proje, React (frontend) ve Node.js + Socket.io (backend) kullanılarak geliş
 git clone https://github.com/arifedal/real_time_chat_app.git
 
 ### 2. Backend kurulumu
-cd server
-npm install
-node index.js
+ - cd server
+ - npm install
+ - node index.js
 Not: Server http://localhost:5000 adresinde çalışır.
 
 
 ### 3. Frontend kurulumu
-cd ../client
-npm install
-npm start
+ - cd ../client
+ - npm install
+ - npm start
 Not: React uygulaması http://localhost:3000 adresinde açılır.
 
 ## 📦 Bağımlılıklar
@@ -42,6 +42,7 @@ Frontend
 <img width="682" height="487" alt="resim" src="https://github.com/user-attachments/assets/d328e997-df55-45de-909d-812ae2480bb4" />
 
 <img width="1767" height="792" alt="resim" src="https://github.com/user-attachments/assets/3e7a8c66-7cd6-4fe4-b473-d75052e8a2a1" />
+
 
 
 
