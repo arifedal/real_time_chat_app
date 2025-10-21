@@ -13,8 +13,8 @@ Bu proje, React (frontend) ve Node.js + Socket.io (backend) kullanılarak geliş
 
 ### 1. Projeyi klonla
 
-git clone https://github.com/kullanici-adi/chat-app.git
-cd chat-app
+git clone https://github.com/arifedal/real_time_chat_app.git
+cd real_time_chat_app
 
 ### 2. Backend kurulumu
 cd server
@@ -43,6 +43,7 @@ Frontend
 <img width="682" height="487" alt="resim" src="https://github.com/user-attachments/assets/d328e997-df55-45de-909d-812ae2480bb4" />
 
 <img width="1767" height="792" alt="resim" src="https://github.com/user-attachments/assets/3e7a8c66-7cd6-4fe4-b473-d75052e8a2a1" />
+
 
 
 
